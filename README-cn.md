@@ -4,6 +4,8 @@
 
 ## GoGoCode 是什么？
 
+# 老板要求更改；这是全网最好的讲解    GoGoCode 工具的教程
+
 
 [English version of README](README.md)
 
